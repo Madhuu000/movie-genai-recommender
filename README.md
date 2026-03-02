@@ -1,12 +1,29 @@
-# GenAI Movie Recommendation System
+🎬 GenAI Movie Recommendation System
 
-This project is a Generative AI movie recommender built using the MovieLens dataset.
+🚀 Overview
+An AI-powered movie recommendation system built using the MovieLens dataset from Kaggle.
 
-Features:
-- Movie recommendation system
-- Generative AI explanations
-- Streamlit web app
+This project recommends movies based on user similarity and generates AI-style explanations.
 
-Run project:
+🧠 Features
+- Movie recommendation engine
+- Collaborative filtering
+- Generative AI explanations (offline version)
+- Interactive Streamlit web app
+
+🛠 Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
+- Machine Learning
+
+📊 Dataset
+MovieLens Dataset (Kaggle)
+
+▶ Run Locally
 pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app.py
+
+👩‍💻 Author
+Baby Thumm| B.Tech AI & DS Student
